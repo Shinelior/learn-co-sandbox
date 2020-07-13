@@ -4,5 +4,5 @@ end
 f(lior: "=" ,first_name:"lior",last_name:"shine")
 
 class person
-  a
+  
 
